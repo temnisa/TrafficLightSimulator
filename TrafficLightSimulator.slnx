@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TrafficLightSimulator.vcxproj" Id="3c8b69e7-538e-4c74-bf7e-82385a232d3a" />
+</Solution>
